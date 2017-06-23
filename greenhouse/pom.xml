@@ -367,8 +367,7 @@
                 <dependency>
                         <groupId>org.springframework</groupId>
                         <artifactId>spring-test-mvc</artifactId>
-                                                                                                                            374,1-8       53%
-<version>${org.springframework.test-mvc-version}</version>
+                        <version>${org.springframework.test-mvc-version}</version>
                         <scope>test</scope>
                 </dependency>
                 <dependency>
